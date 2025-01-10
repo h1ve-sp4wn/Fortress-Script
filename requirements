@@ -1,0 +1,5 @@
+requests
+scikit-learn
+boto3
+cryptography
+psutil
